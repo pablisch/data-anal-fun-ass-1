@@ -13,7 +13,7 @@ See ```L4_Data_Analytics_Fundamentals_assessment_1.docx``` and ```L4_Data_Analyt
 5. What is the average number of customer service calls for customers who churned?
 6. Create a histogram - What is the most common tenure range shown in the histogram? (Adjust the bins if needed)
 7. For the fields 'Gender', 'Senior', and 'Contract', determine if they are qualitative or quantitative and identify the specific data types. Which statement is correct?
-8. Which state has the second highest average number of local calls made?
+8. Which state has the second-highest average number of local calls made?
 9. Which states had 90 customers churning?
 10. Create a line chart showing the average international minutes used per month over different ages. Describe the overall trend. Select all the apply
 11. True or False: Males Under 30 churned more than Females under 30

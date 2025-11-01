@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c4c4dc-22e6-4f66-8e8e-c2309b826057" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data_source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/part2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customerChurnData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/customerChurnData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/workings.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$_Data_Analytics_Fundamentals_assessment_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/part2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -85,7 +83,8 @@
       <updated>1761467623701</updated>
       <workItem from="1761467624731" duration="5723000" />
       <workItem from="1761473409536" duration="9168000" />
-      <workItem from="1761727985767" duration="613000" />
+      <workItem from="1761727985767" duration="2438000" />
+      <workItem from="1761836795067" duration="5573000" />
     </task>
     <servers />
   </component>
